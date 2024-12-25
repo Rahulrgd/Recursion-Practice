@@ -4,7 +4,7 @@ public class L34_PowerOf3 {
 
   public static void main(String[] args) {
     int digit = 3;
-    int pow = 3;
+    int pow = 11;
     int ans = find(digit, pow);
     System.out.println(ans);
   }
