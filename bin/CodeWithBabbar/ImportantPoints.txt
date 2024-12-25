@@ -1,0 +1,6 @@
+1. Base Case
+2. Recursive Reslation Ship
+3. Processing
+
+Recursive Relation in end -> Tail Recursion
+Recursive Relation before processing -> Head Recursion
