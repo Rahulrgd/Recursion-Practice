@@ -1,3 +1,5 @@
+Solve only 1 case, remaining all will be completed by recursion.
+
 1. Base Case
 2. Recursive Reslation Ship
 3. Processing
